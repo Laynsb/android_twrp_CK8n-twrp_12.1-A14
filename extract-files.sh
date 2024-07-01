@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=Infinix-X6833B
-VENDOR=infinix
+DEVICE=TECNO-CK8n
+VENDOR=TECNO
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
