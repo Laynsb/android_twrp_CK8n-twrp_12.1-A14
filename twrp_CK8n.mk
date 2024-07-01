@@ -17,7 +17,7 @@ $(call inherit-product, device/tecno/CK8n/device.mk)
 PRODUCT_DEVICE := CK8n
 PRODUCT_NAME := twrp_CK8n
 PRODUCT_BRAND := Tecno
-PRODUCT_MODEL := Tecno Camon 20 Pro
+PRODUCT_MODEL := Tecno Camon 20 Pro 5G
 PRODUCT_MANUFACTURER := tecno
 
 BOARD_USES_RECOVERY_AS_BOOT := false
